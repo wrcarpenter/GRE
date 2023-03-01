@@ -1,7 +1,8 @@
 # CFA-Level-I
 
 Exam date: August 2023
-Study start date: Feb 25th, 2023
+
+Start date: Feb 25th, 2023
 
 Breakdown:
 1) Quantitative Methods and Economics
